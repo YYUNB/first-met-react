@@ -1,7 +1,5 @@
 # 8강. Handling Events
 
----
-
 ## 8.1 Event
 - 사용자가 버튼을 클릭한 사건
 ### 8.1.1 Event 이름의 표기법
